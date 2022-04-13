@@ -1,2 +1,2 @@
-# Amazon-Best-Sellers-Books
+# Amazon-Best-Selling-Books
 This is my first web scrapping project.
